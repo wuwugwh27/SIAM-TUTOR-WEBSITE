@@ -1,0 +1,20 @@
+# Dependencies & Runtimes
+node_modules/
+.npm/
+
+# Temporary Headless Browser & CDP Directories
+.temp_*
+*.log
+
+# OS Generated Files
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+.DS_Store
+
+# IDE / Editor
+.vscode/
+.idea/
+*.suo
+*.user
